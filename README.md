@@ -57,8 +57,8 @@ The final results are available in the SQL script included in this repository.
 
 ## Project Structure
 
-* `SQL ASSIGNMENT.sql` — SQL queries and database work for the case study.
-* `README.md` — Project overview, database structure, and analysis summary.
+* `SQL ASSIGNMENT.sql` - SQL queries and database work for the case study.
+* `README.md` -  Project overview, database structure, and analysis summary.
 
 ## Learning Outcome
 
